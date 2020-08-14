@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846298312044",
+    "firebase_url": "https://ombre-posts.firebaseio.com",
+    "project_id": "ombre-posts",
+    "storage_bucket": "ombre-posts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846298312044:android:f23ace6cfa780076355749",
+        "android_client_info": {
+          "package_name": "com.example.ombre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846298312044-v3ejgemnn259a2bnd3lvm11368r6sepe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6mx7Ull1-hXbMv4S1xUh05sucOZlLN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846298312044-v3ejgemnn259a2bnd3lvm11368r6sepe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
