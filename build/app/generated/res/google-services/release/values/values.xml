@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">846298312044-v3ejgemnn259a2bnd3lvm11368r6sepe.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ombre-posts.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">846298312044</string>
+    <string name="google_api_key" translatable="false">AIzaSyBI6mx7Ull1-hXbMv4S1xUh05sucOZlLN0</string>
+    <string name="google_app_id" translatable="false">1:846298312044:android:f23ace6cfa780076355749</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBI6mx7Ull1-hXbMv4S1xUh05sucOZlLN0</string>
+    <string name="google_storage_bucket" translatable="false">ombre-posts.appspot.com</string>
+    <string name="project_id" translatable="false">ombre-posts</string>
+</resources>

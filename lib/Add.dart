@@ -48,7 +48,7 @@ class _AddState extends State<Add> {
           duration: Toast.LENGTH_LONG,
           gravity: Toast.BOTTOM,
           backgroundColor: Colors.white,
-          textColor: Colors.white);
+          textColor: Colors.black);
       var timeKey = new DateTime.now();
 
       final StorageUploadTask uploadTask =
